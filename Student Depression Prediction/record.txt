@@ -1,0 +1,13 @@
+Gender: Male
+Age: 21
+Academic Pressure: 3
+CGPA: 8.5
+Study Satisfaction: 4
+Sleep Duration: '5-6 hours'
+Dietary Habits: Healthy
+Suicidal Thoughts: No
+Work/Study Hours: 6
+Financial Stress: 3
+Family History of Mental Illness: Yes
+HRA Class: Y
+Degree Category: B
