@@ -1,0 +1,168 @@
+"Total population by geographic location (based on 2000, 2010 and 2015 Censuses)",,
+,,
+,2010,2015
+PHILIPPINES,92337852,100981437
+..National Capital Region (NCR),11855975,12877253
+....City of Manila,1652171,1780148
+....City of Mandaluyong,328699,386276
+....City of Marikina,424150,450741
+....City of Pasig,669773,755300
+....Quezon City,2761720,2936116
+....City of San Juan,121430,122180
+....Caloocan City,1489040,1583978
+....City of Malabon,353337,365525
+....City of Navotas,249131,249463
+....City of Valenzuela,575356,620422
+....City of Las Piñas,552573,588894
+....City of Makati,529039,582602
+....City of Muntinlupa,459941,504509
+....City of Parañaque,588126,665822
+....Pasay City,392869,416522
+....Pateros,64147,63840
+....Taguig City,644473,804915
+..Cordillera Administrative Region (CAR),1616867,1722006
+....Abra,234733,241160
+....Benguet (excluding Baguio City),403944,446224
+....Baguio City,318676,345366
+....Ifugao,191078,202802
+....Kalinga,201613,212680
+....Mountain Province,154187,154590
+....Apayao,112636,119184
+..Region I (Ilocos Region),4748372,5026128
+....Ilocos Norte,568017,593081
+....Ilocos Sur,658587,689668
+....La Union,741906,786653
+....Pangasinan,2779862,2956726
+..Region II (Cagayan Valley),3229163,3451410
+....Batanes,16604,17246
+....Cagayan,1124773,1199320
+....Isabela,1489645,1593566
+....Nueva Vizcaya,421355,452287
+....Quirino,176786,188991
+..Region III (Central Luzon),10137737,11218177
+....Bataan,687482,760650
+....Bulacan,2924433,3292071
+....Nueva Ecija,1955373,2151461
+....Pampanga (excluding Angeles City),2014019,2198110
+....Angeles City,326336,411634
+....Tarlac,1273240,1366027
+....Zambales (excluding Olongapo City),534443,590848
+....Olongapo City,221178,233040
+....Aurora,201233,214336
+..Region IV-A (Calabarzon),12609803,14414774
+....Batangas,2377395,2694335
+....Cavite,3090691,3678301
+....Laguna,2669847,3035081
+....Quezon (excluding Lucena City),1740638,1856582
+....Lucena City,246392,266248
+....Rizal,2484840,2884227
+..Mimaropa Region,2744671,2963360
+....Marinduque,227828,234521
+....Occidental Mindoro,452971,487414
+....Oriental Mindoro,785602,844059
+....Palawan (excluding Puerto Princesa City),771667,849469
+....Puerto Princesa City,222673,255116
+....Romblon,283930,292781
+..Region V (Bicol Region),5420411,5796989
+....Albay,1233432,1314826
+....Camarines Norte,542915,583313
+....Camarines Sur,1822371,1952544
+....Catanduanes,246300,260964
+....Masbate,834650,892393
+....Sorsogon,740743,792949
+..Region VI (Western Visayas),4194579,4477247
+....Aklan,535725,574823
+....Antique,546031,582012
+....Capiz,719685,761384
+....Iloilo (excluding Iloilo City),1805576,1936423
+....Iloilo City,424619,447992
+....Guimaras,162943,174613
+..Region VII (Central Visayas),5513514,6041903
+....Bohol,1255128,1313560
+"....Cebu (excluding The Cities of Cebu, Lapu-Lapu, And Mandaue)",2619362,2938982
+....Cebu City,866171,922611
+....Lapu-Lapu City (Opon),350467,408112
+....Mandaue City,331320,362654
+....Siquijor,91066,95984
+....Negros Island Region (NIR),4194525,4414131
+....Negros Occidental (excluding Bacolod City),2396039,2497261
+....Bacolod City,511820,561875
+....Negros Oriental,1286666,1354995
+....Region VIII (Eastern Visayas),4101322,4440150
+....Eastern Samar,428877,467160
+....Leyte (excluding Tacloban City),1567984,1724679
+....Tacloban City,221174,242089
+....Northern Samar,589013,632379
+....Samar (Western Samar),733377,780481
+....Southern Leyte,399137,421750
+....Biliran,161760,171612
+..Region IX (Zamboanga Peninsula),3407353,3629783
+....Zamboanga Del Norte,957997,1011393
+....Zamboanga Del Sur (excluding Zamboanga City),959685,1010674
+....Zamboanga City,807129,861799
+....Zamboanga Sibugay,584685,633129
+....City of Isabela,97857,112788
+..Region X (Northern Mindanao),4297323,4689302
+....Bukidnon,1299192,1415226
+....Camiguin,83807,88478
+....Lanao Del Norte (excluding Iligan City),607917,676395
+....Iligan City,322821,342618
+....Misamis Occidental,567642,602126
+....Misamis Oriental (excluding Cagayan De Oro City),813856,888509
+....Cagayan De Oro City,602088,675950
+....Region XI (Davao Region),4468563,4893318
+....Davao Del Norte,945764,1016332
+....Davao Del Sur (excluding Davao City),574910,632588
+....Davao City,1449296,1632991
+....Davao Oriental,517618,558958
+....Compostela Valley,687195,736107
+....Davao Occidental,293780,316342
+..Region XII (SOCCSKSARGEN),4109571,4545276
+....Cotabato (North Cotabato),1226508,1379747
+....South Cotabato (excluding General Santos City),827200,915289
+....General Santos City (Dadiangas),538086,594446
+....Sultan Kudarat,747087,812095
+....Sarangani,498904,544261
+....Cotabato City,271786,299438
+..Autonomous Region In Muslim Mindanao (ARMM),3256140,3781387
+....Basilan (excluding City of Isabela),293322,346579
+....Lanao Del Sur,933260,1045429
+....Maguindanao (excluding Cotabato City),944718,1173933
+....Sulu,718290,824731
+....Tawi-Tawi,366550,390715
+..Region XIII (Caraga),2429224,2596709
+....Agusan Del Norte (excluding Butuan City),332487,354503
+....Butuan City,309709,337063
+....Agusan Del Sur,656418,700653
+....Surigao Del Norte,442588,485088
+....Surigao Del Sur,561219,592250
+....Dinagat Islands,126803,127152
+,,
+,,
+Latest update:,,
+20170421 09:00,,
+,,
+Source:,,
+Philippine Statistics Authority,,
+,,
+Contact:,,
+Population and Housing Census Division,,
+National Censuses Service,,
+Philippine Statistics Authority (PSA),,
+"17th Floor, North Tower, Eton Centris Cyberpod Three, EDSA corner Quezon Avenue, Quezon City",,
+Telephone Number: +632 376 1903,,
+,,
+,,
+Units:,,
+Number of persons,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Internal reference code:,,
+1A6DTPG0,,
